@@ -1,0 +1,12 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'Soble' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+  pod 'UberRides', '~> 0.9'
+  pod 'Alamofire', '~> 5.0.0-beta.5'
+
+  # Pods for Soble
+
+end
